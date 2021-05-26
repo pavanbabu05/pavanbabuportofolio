@@ -1,0 +1,211 @@
+
+@charset "utf-8";
+
+ body{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+    color:seashell;
+ }
+ html{
+    scroll-behavior: smooth;
+  }
+  *{
+    margin: 0px;
+    padding: 0px;
+  }
+ .container{
+    width: 100px;
+    margin: 0 auto;
+ }
+
+ header{
+   background:blueviolet;
+   width: 100%;
+   float: left;
+   padding: 20px 0px;
+   margin: 0px;
+   border-bottom: black solid 1px;
+   position: fixed;
+ }
+ .name{
+     margin-left: -550px;
+     margin-top: 8px;
+     width: 300px;
+     font-size: 25px;
+     font-weight: bold;
+     color:white;
+     float: left;
+ }
+ .menu{
+     width: 700px;
+     float: left;     
+ }
+ .menu ul{
+     list-style-type: none;
+     text-align: right;
+     margin-top: 15px;
+ }
+ .menu li{
+     display: inline;
+     padding: 10px 20px;
+ }
+ .menu a{
+     color: whitesmoke;
+     font-size: 15px;
+     text-decoration: none;
+ }
+ section{
+     padding: 100px 0px;
+     width: 100%;
+     float: left;
+ }
+#About-page{
+    background-color:darkmagenta;
+    color:white;
+    clear: both;
+    margin-top:50px;
+    font-size:18px;
+ }
+#About-page image{
+      width: 620px;
+      height: 350px;
+}
+#About-page a{
+    color:darkorange;
+}  
+#About-page  h1{
+     color:whitesmoke;
+     text-align:left;
+     margin-bottom:20px;
+ }
+ .fa{
+     font-size: 200px;
+     color:white;
+     margin: 10px 5px;
+ }
+ .h1{
+      margin: 0px;
+  
+  }
+h1{
+    font-size: 40px;
+    color:lightcoral;
+    text-align: center;
+    margin-bottom: 190px;
+    margin-right: 100px;
+    
+    
+}
+H1 .fa{
+    font-size: 50px;
+    color:slateblue;
+}
+h2{
+    font-size: 20px;
+    margin-top:10px;
+    color: #000000;
+    text-align:left;
+    margin-left: 100px;
+
+}
+i{
+    color: #999999;
+    font-size: 18px;
+    margin-left: 100px;
+    padding: 5px 0px 7px 0px;
+    font-style:initial;
+    display: block;
+}
+
+section{
+    padding: 150px 0px;
+    width: 100%;
+    float: left;
+}
+.A1{
+    border-top: 2px solid burlywood;
+    background-color:#eee;
+    color:white;
+    clear: both;
+    margin-bottom: 150px;
+    border-bottom: 2PX solid black;
+ }
+h4{
+    color:darkblue;
+    margin-left: 34px;
+}
+h3{
+    font-size: 20px;
+    margin-top:10px;
+    color: #000000;
+    text-align:left;
+    margin-left: 25px;
+    padding-bottom: 15px;
+}
+ i{
+    color:sienna;
+    padding: 5px 0px 7px 0px;
+    margin-left: 34px;
+}
+A1.fa{
+    font-size: 50px;
+    color:slateblue;
+}
+.B1{
+    border-top: 2px solid burlywood;
+    background-color:mediumturquoise;
+    color:white;
+    clear: both;
+    border-bottom: 2PX solid black;
+    
+   
+}
+
+#skills i{
+ margin:20px;
+ padding: 30px;
+}
+#skills h2{
+    margin-left: 20px;
+    font-size: 30px;
+    color:blue;
+}
+#skills img{
+    padding: 25px;  
+}
+#skills i{
+    margin-left: 25px;
+}
+#skills i{
+    padding: 0px
+   
+}
+#skills i b{
+    margin-left: 5px;
+    color:navy;
+    margin-bottom: 450px;
+}
+.f1 {
+    border-top: 2px solid burlywood;
+    background-color: whitesmoke;
+    color: white;
+    clear: both;
+    border-bottom: 2PX solid black;
+    
+}
+#port h1{
+    color:magenta;
+}
+#port h3{
+    margin-left: 20px;
+    color:indigo;
+    font-size: 25px;
+}
+.f1 .fa{
+    color:deeppink;
+}
+#port i b{
+    color:lightsalmon;
+    margin-left:-2px;
+}
+
